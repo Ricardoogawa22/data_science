@@ -12,7 +12,7 @@ Engenheiro mecânico, atuando com projetos na área de envase de bebidas.
 **Background in:** Python, HTML5, CSS3.
 
 **Links:**
-* [LinkedIn](https://www.[linkedin.com/in/ricardo-ogawa-99b198184/])
+* [LinkedIn](www.linkedin.com/in/ricardo-ogawa-99b198184)
 
 
 ## Projetos:
