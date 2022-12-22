@@ -18,7 +18,7 @@ Engenheiro mecânico, atuando com projetos na área de envase de bebidas.
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Como usar o Histograma para Data Science:**
+* **Como usar o Histograma para Data Science:** https://bityli.com/wjJzJ
 ---
 
 
